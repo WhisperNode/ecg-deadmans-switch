@@ -41,7 +41,7 @@ version = "4.0"
 
 [dependencies.ctrlc]
 features = ["termination"]
-version = "3.2"
+version = "3.4"
 
 [dev-dependencies]
 indoc = "2.0"
